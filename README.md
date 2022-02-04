@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeydcan
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Penetration Testing
+- 🌱 I’m currently learning Defensive Security
 - 📫 How to reach me Link.. https://linktr.ee/zeydcan
 
 <!---
